@@ -19,7 +19,7 @@ Go.sh is a simple sample script. You can also decide to login once and not remov
 - mqtt broker
 
 ## Home Assistant Example:
-
+```
 - platform: mqtt
   name: "Temperatuur buiten"
   unit_of_measurement: '°C'
@@ -34,3 +34,4 @@ Go.sh is a simple sample script. You can also decide to login once and not remov
   name: "Temperatuur boiler"
   unit_of_measurement: '°C'
   state_topic: "aquarea/water"
+```
