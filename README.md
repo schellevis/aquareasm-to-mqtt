@@ -1,4 +1,4 @@
-This is a work in process of a simple php script that:
+This is a work in progress of a simple php script that:
 
 * logins to the Aquarea interface using Chrome Headless (login.php)
 * pulls some statistics (pull.php, work in progress)
